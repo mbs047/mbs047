@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://certificates.dev/laravel/certificates/a1ece076-e374-459c-b8b3-8f090fe89a8d"><img src="https://img.shields.io/badge/Laravel_Certified-Junior-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=4A1D1D" alt="Laravel Junior Certificate"></a>
-  <a href="https://baobaid.me/certificates"><img src="https://img.shields.io/badge/KNIME_Expert-L4-FDD800?style=for-the-badge&logo=knime&logoColor=white&labelColor=1F2937" alt="KNIME Expert L4"></a>
+  <a href="https://www.credly.com/badges/023f6838-9064-4df1-8210-c6b94511ca67/print"><img src="https://img.shields.io/badge/KNIME_Expert-L4-FDD800?style=for-the-badge&logo=knime&logoColor=white&labelColor=1F2937" alt="KNIME Expert L4"></a>
 </p>
 
 <p align="center">
