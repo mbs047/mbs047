@@ -14,10 +14,38 @@ I build practical software where backend structure, useful data, and calm interf
 
 ```mermaid
 flowchart LR
-    A[Messy workflow] --> B[Laravel structure]
-    B --> C[Data model]
-    C --> D[Admin / BI / AI layer]
-    D --> E[Clear decision]
+    Start["Messy workflow"] --> Intake["Process + data signals"]
+
+    subgraph Core["Laravel product core"]
+        Model["Eloquent domain model"]
+        Guard["Policies + validation"]
+        Jobs["Queues + integrations"]
+        Panel["Filament / Livewire UI"]
+        Model --> Guard --> Jobs --> Panel
+    end
+
+    subgraph Intelligence["Analytics + AI layer"]
+        Metrics["SQL / KPI model"]
+        BI["Power BI / Tableau / KNIME"]
+        Context["Approved AI context"]
+        Metrics --> BI
+        Metrics --> Context
+    end
+
+    Intake --> Model
+    Panel --> Metrics
+    Context --> Decision["Traceable decision surface"]
+    BI --> Decision
+    Decision --> Outcome["Useful product output"]
+
+    classDef laravel fill:#2A1212,stroke:#FF2D20,color:#FFF3F0;
+    classDef data fill:#1E293B,stroke:#38BDF8,color:#E0F2FE;
+    classDef ai fill:#12332F,stroke:#14B8A6,color:#CCFBF1;
+    classDef result fill:#2A2108,stroke:#F59E0B,color:#FEF3C7;
+    class Model,Guard,Jobs,Panel laravel;
+    class Metrics,BI data;
+    class Context ai;
+    class Decision,Outcome result;
 ```
 
 ## Build Mode
