@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Mohammed Baobaid - Laravel systems, data products, and AI workflows" width="100%">
+  <a href="https://baobaid.me"><img src="./assets/banner.svg" alt="Mohammed Baobaid - Laravel systems, data products, and AI workflows" width="100%"></a>
 </p>
 
 <p align="center">
