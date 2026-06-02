@@ -1,76 +1,49 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Mohammed Baobaid profile banner</title>
-  <desc id="desc">A dark technical banner for Laravel systems, data analytics, and AI workflows.</desc>
+  <desc id="desc">A refined dark banner for Laravel systems, analytics, and AI-aware workflows.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
       <stop stop-color="#080B12"/>
-      <stop offset="0.46" stop-color="#111827"/>
-      <stop offset="1" stop-color="#0B3B3D"/>
+      <stop offset="0.58" stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#092F2F"/>
     </linearGradient>
-    <linearGradient id="accent" x1="150" y1="40" x2="1040" y2="320" gradientUnits="userSpaceOnUse">
+    <linearGradient id="line" x1="120" y1="256" x2="1040" y2="78" gradientUnits="userSpaceOnUse">
       <stop stop-color="#FF2D20"/>
       <stop offset="0.5" stop-color="#F59E0B"/>
       <stop offset="1" stop-color="#14B8A6"/>
     </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.055"/>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#FFFFFF" stroke-opacity="0.045"/>
     </pattern>
-    <filter id="softShadow" x="-20%" y="-30%" width="140%" height="160%" color-interpolation-filters="sRGB">
-      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.34"/>
+    <filter id="shadow" x="-15%" y="-20%" width="130%" height="150%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000000" flood-opacity="0.36"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-  <path d="M70 292C224 192 321 238 445 167C573 94 648 70 808 118C934 156 1013 142 1135 62" stroke="url(#accent)" stroke-width="2" stroke-opacity="0.8"/>
-  <path d="M90 310C248 236 348 272 481 213C641 142 746 184 887 221C985 247 1060 213 1138 176" stroke="#FFFFFF" stroke-width="1" stroke-opacity="0.18"/>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <path d="M86 252C220 167 338 208 468 144C604 78 710 100 812 133C922 168 1017 122 1114 66" stroke="url(#line)" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M112 271C263 220 369 236 506 188C640 142 756 171 894 191C1001 206 1066 172 1132 136" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-opacity="0.14"/>
 
-  <g filter="url(#softShadow)">
-    <rect x="70" y="62" width="540" height="236" rx="22" fill="#0B1220" fill-opacity="0.9" stroke="#FFFFFF" stroke-opacity="0.1"/>
-    <rect x="94" y="86" width="88" height="32" rx="16" fill="#FF2D20" fill-opacity="0.16" stroke="#FF2D20" stroke-opacity="0.6"/>
-    <text x="138" y="107" text-anchor="middle" fill="#FEE2E2" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="1.2">MBS</text>
-    <text x="94" y="158" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="800">Mohammed Baobaid</text>
-    <text x="96" y="196" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600">Laravel systems builder + data analytics specialist</text>
-    <text x="96" y="236" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Backend structure. Applied data. Calm product interfaces.</text>
-    <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">
-      <rect x="94" y="258" width="110" height="28" rx="14" fill="#FF2D20" fill-opacity="0.14" stroke="#FF2D20" stroke-opacity="0.35"/>
-      <text x="149" y="277" text-anchor="middle" fill="#FCA5A5">Laravel</text>
-      <rect x="216" y="258" width="112" height="28" rx="14" fill="#F59E0B" fill-opacity="0.14" stroke="#F59E0B" stroke-opacity="0.35"/>
-      <text x="272" y="277" text-anchor="middle" fill="#FCD34D">Analytics</text>
-      <rect x="340" y="258" width="128" height="28" rx="14" fill="#14B8A6" fill-opacity="0.14" stroke="#14B8A6" stroke-opacity="0.35"/>
-      <text x="404" y="277" text-anchor="middle" fill="#5EEAD4">AI workflows</text>
-    </g>
+  <g filter="url(#shadow)">
+    <rect x="76" y="66" width="586" height="188" rx="24" fill="#0B1220" fill-opacity="0.92" stroke="#FFFFFF" stroke-opacity="0.09"/>
+    <rect x="104" y="94" width="118" height="30" rx="15" fill="#FF2D20" fill-opacity="0.14" stroke="#FF2D20" stroke-opacity="0.55"/>
+    <text x="163" y="114" text-anchor="middle" fill="#FCA5A5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="800" letter-spacing="1.4">MBS047</text>
+    <text x="104" y="162" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="850">Mohammed Baobaid</text>
+    <text x="106" y="198" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="650">Laravel systems. Data products. AI-aware workflows.</text>
+    <text x="106" y="228" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15">Abu Dhabi based builder turning operations into clear software.</text>
   </g>
 
-  <g filter="url(#softShadow)">
-    <rect x="676" y="74" width="432" height="220" rx="22" fill="#0F172A" fill-opacity="0.84" stroke="#FFFFFF" stroke-opacity="0.1"/>
-    <g stroke="#94A3B8" stroke-width="2" stroke-linecap="round">
-      <path d="M779 143H842"/>
-      <path d="M842 143L832 135"/>
-      <path d="M842 143L832 151"/>
-      <path d="M907 143H970"/>
-      <path d="M970 143L960 135"/>
-      <path d="M970 143L960 151"/>
-      <path d="M843 222H906"/>
-      <path d="M906 222L896 214"/>
-      <path d="M906 222L896 230"/>
-    </g>
-    <g font-family="Inter, Segoe UI, Arial, sans-serif">
-      <rect x="710" y="112" width="100" height="62" rx="14" fill="#111827" stroke="#FF2D20" stroke-opacity="0.7"/>
-      <text x="760" y="138" text-anchor="middle" fill="#F8FAFC" font-size="14" font-weight="700">Workflow</text>
-      <text x="760" y="158" text-anchor="middle" fill="#94A3B8" font-size="12">signals</text>
-      <rect x="842" y="112" width="100" height="62" rx="14" fill="#111827" stroke="#F59E0B" stroke-opacity="0.7"/>
-      <text x="892" y="138" text-anchor="middle" fill="#F8FAFC" font-size="14" font-weight="700">Domain</text>
-      <text x="892" y="158" text-anchor="middle" fill="#94A3B8" font-size="12">model</text>
-      <rect x="974" y="112" width="100" height="62" rx="14" fill="#111827" stroke="#14B8A6" stroke-opacity="0.7"/>
-      <text x="1024" y="138" text-anchor="middle" fill="#F8FAFC" font-size="14" font-weight="700">Decision</text>
-      <text x="1024" y="158" text-anchor="middle" fill="#94A3B8" font-size="12">surface</text>
-      <rect x="776" y="191" width="100" height="62" rx="14" fill="#111827" stroke="#38BDF8" stroke-opacity="0.65"/>
-      <text x="826" y="217" text-anchor="middle" fill="#F8FAFC" font-size="14" font-weight="700">Admin</text>
-      <text x="826" y="237" text-anchor="middle" fill="#94A3B8" font-size="12">ops</text>
-      <rect x="910" y="191" width="100" height="62" rx="14" fill="#111827" stroke="#A3E635" stroke-opacity="0.65"/>
-      <text x="960" y="217" text-anchor="middle" fill="#F8FAFC" font-size="14" font-weight="700">BI + AI</text>
-      <text x="960" y="237" text-anchor="middle" fill="#94A3B8" font-size="12">context</text>
+  <g filter="url(#shadow)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="735" y="82" width="336" height="172" rx="24" fill="#0B1220" fill-opacity="0.78" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <text x="770" y="123" fill="#E2E8F0" font-size="14" font-weight="800" letter-spacing="1.2">CURRENT SHAPE</text>
+    <g font-size="15" font-weight="750">
+      <circle cx="778" cy="154" r="5" fill="#FF2D20"/>
+      <text x="796" y="160" fill="#F8FAFC">Laravel product architecture</text>
+      <circle cx="778" cy="189" r="5" fill="#F59E0B"/>
+      <text x="796" y="195" fill="#F8FAFC">Analytics and decision layers</text>
+      <circle cx="778" cy="224" r="5" fill="#14B8A6"/>
+      <text x="796" y="230" fill="#F8FAFC">Context-aware AI interfaces</text>
     </g>
   </g>
 </svg>
