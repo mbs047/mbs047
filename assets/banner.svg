@@ -1,0 +1,32 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammed Baobaid profile banner</title>
+  <desc id="desc">A minimal dark banner for Laravel, data, and AI workflow work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="240" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B12"/>
+      <stop offset="0.64" stop-color="#111827"/>
+      <stop offset="1" stop-color="#103B3A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="240" y1="178" x2="960" y2="178" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF2D20"/>
+      <stop offset="0.5" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#14B8A6"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#FFFFFF" stroke-opacity="0.03"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="240" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="240" rx="26" fill="url(#grid)"/>
+  <path d="M240 178H960" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="240" cy="178" r="6" fill="#FF2D20"/>
+  <circle cx="600" cy="178" r="6" fill="#F59E0B"/>
+  <circle cx="960" cy="178" r="6" fill="#14B8A6"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="78" fill="#F8FAFC" font-size="50" font-weight="850">Mohammed Baobaid</text>
+    <text x="600" y="118" fill="#CBD5E1" font-size="22" font-weight="650">Laravel systems. Data products. AI workflows.</text>
+    <text x="600" y="212" fill="#94A3B8" font-size="14" font-weight="750" letter-spacing="1.4">LARAVEL / FILAMENT / ANALYTICS / OPENAI</text>
+  </g>
+</svg>
