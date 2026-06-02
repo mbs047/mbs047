@@ -29,6 +29,7 @@
 
 ### Work
 
+- 🛒 [Cartaro](https://cartaro.co): commerce work shaped around storefront, operations, and product experience.
 - 🤖 [ModelMind](https://github.com/mbs047/model-mind): model-aware AI assistant package for Laravel.
 - 🖥️ [MBS Terminal](https://github.com/mbs047/MBS-Terminal): Windows terminal setup for Laravel/PHP workflows.
 - 🌐 [MBS Portfolio](https://github.com/mbs047/MBS-Portfolio): Laravel portfolio, certificates, case studies, and Filament admin tooling.
