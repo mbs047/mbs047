@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Mohammed Baobaid - Laravel systems, data analytics, and AI workflows" width="100%">
+  <img src="./assets/profile-banner.svg" alt="Mohammed Baobaid - Laravel systems, data products, and AI workflows" width="100%">
 </p>
 
 <p align="center">
@@ -7,39 +7,28 @@
 </p>
 
 <p align="center">
-  <a href="https://baobaid.me">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/mbs0/">LinkedIn</a> ·
-  <a href="https://github.com/mbs047/model-mind">ModelMind</a> ·
-  <a href="https://github.com/mbs047/MBS-Terminal">MBS Terminal</a>
+  <a href="https://baobaid.me">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/mbs0/">💼 LinkedIn</a> ·
+  <a href="https://github.com/mbs047/model-mind">🤖 ModelMind</a> ·
+  <a href="https://github.com/mbs047/MBS-Terminal">🖥️ MBS Terminal</a>
 </p>
 
 <p align="center">
-  <strong>Laravel product engineering with data-minded systems design.</strong><br>
-  I build admin panels, dashboards, AI-aware workflows, and developer tools that make complex operations easier to run.
+  I build Laravel apps, Filament admin panels, dashboards, and AI-aware workflows that make complex operations easier to run.
 </p>
 
-<p align="center">
-  <img src="./assets/system-map.svg" alt="System map from workflow signals to Laravel architecture, analytics, AI context, and decisions" width="100%">
-</p>
+### Focus
 
-## Build Focus
+- 🧱 Laravel product systems: Filament, Livewire, APIs, queues, policies, testing.
+- 📊 Data and dashboards: SQL, KPI models, Power BI, Tableau, KNIME.
+- 🤖 AI interfaces: approved context, citations, safe actions, useful assistant behavior.
 
-- **Product systems:** Laravel, Filament, Livewire, APIs, queues, policies, mail, testing, and clean admin workflows.
-- **Decision layers:** SQL, KPI modeling, Power BI, Tableau, KNIME, Excel, and business reporting.
-- **AI interfaces:** approved context, traceable citations, safe actions, user-aware workflows, and useful assistant behavior.
+### Stack
 
-## Stack
+`Laravel` `PHP` `Filament` `Livewire` `Tailwind` `MySQL` `PHPUnit` `OpenAI` `SQL` `Power BI` `KNIME`
 
-`Laravel` `PHP` `Filament` `Livewire` `Tailwind CSS` `Alpine.js` `MySQL` `PHPUnit` `REST APIs` `Queues` `OpenAI` `SQL` `Power BI` `Tableau` `KNIME`
+### Work
 
-## Selected Work
-
-**[ModelMind](https://github.com/mbs047/model-mind)** — Laravel AI assistant package with model-aware context, citations, providers, sessions, analytics, and tests.
-
-**[MBS Terminal](https://github.com/mbs047/MBS-Terminal)** — Windows terminal setup for Laravel/PHP development with setup, restore, theme, prompt, and workflow helpers.
-
-**[MBS Portfolio](https://github.com/mbs047/MBS-Portfolio)** — Laravel portfolio platform with case studies, certificates, references, contact flows, SEO, and Filament admin tooling.
-
-## Now
-
-Product-grade Laravel delivery, analytics clarity, and developer experience tooling from Abu Dhabi, UAE.
+- 🤖 [ModelMind](https://github.com/mbs047/model-mind): model-aware AI assistant package for Laravel.
+- 🖥️ [MBS Terminal](https://github.com/mbs047/MBS-Terminal): Windows terminal setup for Laravel/PHP workflows.
+- 🌐 [MBS Portfolio](https://github.com/mbs047/MBS-Portfolio): Laravel portfolio, certificates, case studies, and Filament admin tooling.
