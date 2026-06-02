@@ -1,5 +1,9 @@
 # Mohammed Baobaid
 
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Mohammed Baobaid - Laravel systems, data analytics, and AI workflows" width="100%">
+</p>
+
 Laravel systems builder. Data analytics thinker. Product-polish person.
 
 I build practical software where backend structure, useful data, and calm interfaces meet: Laravel apps, Filament panels, AI-aware workflows, BI dashboards, and developer tools.
